@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "KAKAMEGA RELAYS",
-    "currentPage": "events.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -53,7 +53,9 @@
     "gdpr": false,
     "uniqCompNum": 113,
     "versionPublish": "5.6.11",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "publishType": "local",
+    "publishPath": "@PROJECT_PATH@"
   },
   "pages": {
     "index.html": {
