@@ -2383,40 +2383,6 @@ a {
 .cid-tepYVY0qgs .card-title {
   color: #2299aa;
 }
-.cid-tepwa5clNz {
-  padding-top: 5rem;
-  padding-bottom: 5rem;
-  background-color: #e4ebec;
-}
-.cid-tepwa5clNz .mbr-overlay {
-  background-color: #ffffff;
-  opacity: 0.4;
-}
-.cid-tepwa5clNz form.mbr-form {
-  border-radius: 10px;
-  background-color: #fafafa;
-}
-@media (min-width: 992px) {
-  .cid-tepwa5clNz form.mbr-form {
-    padding: 3rem 2rem;
-    width: 60%;
-  }
-}
-@media (max-width: 991px) {
-  .cid-tepwa5clNz form.mbr-form {
-    padding: 1rem;
-  }
-}
-.cid-tepwa5clNz form.mbr-form .mbr-section-btn {
-  text-align: center;
-  width: 100%;
-}
-.cid-tepwa5clNz form.mbr-form .mbr-section-btn .btn {
-  width: 100%;
-}
-.cid-tepwa5clNz .mbr-section-title {
-  color: #2299aa;
-}
 .cid-tepwa5zrf5 {
   padding-top: 5rem;
   padding-bottom: 5rem;
@@ -6533,7 +6499,7 @@ a {
 .cid-teqtR8ZGXS {
   padding-top: 5rem;
   padding-bottom: 5rem;
-  background-color: #e4ebec;
+  background-color: #fafafa;
 }
 .cid-teqtR8ZGXS .counter-container ul {
   margin: 0;
